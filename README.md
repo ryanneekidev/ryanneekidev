@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Full-Stack Engineer | Backend Engineer | Problem Solver**
+  **Full-Stack Engineer | Backend Engineer**
   
   Transforming ideas into dynamic web applications
   
