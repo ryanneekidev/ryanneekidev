@@ -4,11 +4,10 @@
   
   **Full-Stack Engineer | Backend Engineer**
   
-  Transforming ideas into dynamic web applications
+  Transforming ideas into dynamic applications
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-ryanneeki.xyz-blue?style=for-the-badge&logo=vercel)](https://ryanneeki.xyz)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:contact@ryanneeki.xyz)
-  [![GitHub](https://img.shields.io/badge/GitHub-ryanneekidev-black?style=for-the-badge&logo=github)](https://github.com/ryanneekidev)
   
 </div>
 
@@ -16,11 +15,10 @@
 
 ## 🚀 About Me
 
-I'm a 19-year-old software engineer passionate about building robust, scalable applications and exploring the depths of computer science. Whether it's crafting seamless user experiences on the frontend or architecting efficient backend systems, I thrive on turning complex problems into elegant solutions.
+I'm a 19-year-old software engineer passionate about building robust, scalable systems and applications and exploring the depths of computer science. Whether it's crafting seamless experiences on the frontend or architecting robust backend systems, I thrive on turning complex problems into elegant solutions.
 
-- 🔭 Currently working on **[RLine](https://rline.ryanneeki.xyz)** - a full-stack social media platform
-- 🌱 Exploring the intersections of **software engineering, networking, AI, graphics, and game development**
-- 💻 Deep diving into **data structures and algorithms**
+- 🔭 Currently working on **[Kowica](https://github.com/Kowica)** - a QR-based restaurent management, supply and payment platform
+- 🔭 Sometimes work on **[RLine](https://rline.ryanneeki.xyz)** - a full-stack social media platform
 - 🎮 Casual gamer when I'm not coding
 
 ---
