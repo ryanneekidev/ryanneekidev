@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Full-Stack Engineer | Backend Engineer**
+  **Backend Engineer | Full-Stack Engineer**
   
   Transforming ideas into dynamic applications
   
@@ -17,8 +17,8 @@
 
 I'm a 19-year-old software engineer passionate about building robust, scalable systems and applications and exploring the depths of computer science. Whether it's crafting seamless experiences on the frontend or architecting robust backend systems, I thrive on turning complex problems into elegant solutions.
 
-- 🔭 Currently working on **[Kowica](https://github.com/Kowica)** - a QR-based restaurent management, supply and payment platform
-- 🔭 Sometimes work on **[RLine](https://rline.ryanneeki.xyz)** - a full-stack social media platform
+- 🔭 Currently working on **[Kowica](https://github.com/Kowica)** - a QR-based restaurent management, supply-chain management and payment platform.
+- 🔭 Sometimes work on **[RLine](https://rline.ryanneeki.xyz)** - a full-stack social media platform.
 - 🎮 Casual gamer when I'm not coding
 
 ---
@@ -37,7 +37,7 @@ My star project: A modern, feature-rich social media platform built from the gro
 - Social engagement features including posts, likes, and user profiles
 
 **🛠️ Tech Stack:**
-- **Frontend**: React, CSS3, JavaScript | [Repository](https://github.com/ryanneekidev/new-rline-frontend)
+- **Frontend**: React, CSS3, JavaScript | [Repository](https://github.com/ryanneekidev/rline-frontend-2)
 - **Backend**: Node.js, Express.js | [Repository](https://github.com/ryanneekidev/rline-backend)
 
 [🔗 Live Demo](https://rline.ryanneeki.xyz) | [📂 View Code](https://github.com/ryanneekidev)
@@ -81,16 +81,6 @@ My star project: A modern, feature-rich social media platform built from the gro
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanneekidev&theme=radical&hide_border=true)
-  
-</div>
 
 ---
 
